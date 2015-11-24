@@ -1,2 +1,2 @@
 # Gitlet
-Implementation of a version of git version control
+Implementation of a simplified version of git 
